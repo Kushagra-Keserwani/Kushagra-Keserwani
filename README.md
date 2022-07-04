@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+<!-- ### Hi there -->
 
 <!--
 **Kushagra-Keserwani/Kushagra-Keserwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
 -->
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kushagra Kesrwani</h2>
+<h2 align="center">Hi 👋  width="30px">, I'm Kushagra Kesrwani</h2>
 <h3 align="center">A programmer, passionate developer, forever learner, community leader </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshaaatt&label=Profile%20views&color=0e75b6&style=flat" alt="Kushagra Keserwani" /> </p>
