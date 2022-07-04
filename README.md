@@ -56,5 +56,5 @@ Here are some ideas to get you started:
 <br>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kushagra-Keserwani&show_icons=true&locale=en&theme=radical" alt="Kushagra-Keserwani" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra-Keserwani&theme=dark" alt="Kushagra-Keserwani" /></p>
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kushagra-Keserwani&show_icons=true&locale=en&theme=radical" alt="Kushagra-Keserwani" /></p> -->
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra-Keserwani&theme=dark" alt="Kushagra-Keserwani" /></p> -->
