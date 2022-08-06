@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/kushagra-keserwani/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Kushagra Keserwani" height="30" width="40" /></a>
-<a href="https://instagram.com/kingkushagrak/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Kushagra Keserwani" height="30" width="40" /></a>
+<a href="https://instagram.com/kingkushagrak/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="Kushagra Keserwani" height="30" width="40" /></a>
 <a href="https://twitter.com/himkeserwani" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Kushagra Keserwani" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/keserwani_20" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="Kushagra Keserwani" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kushagrakeserwa1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="Kushagra Keserwani" height="30" width="40" /></a>
